@@ -1,6 +1,6 @@
-# GRC Portfolio: Building a Security Program for Meridian Ledger
+# GRC Portfolio: Building a Security Program for Johnson Enterprise
 
-An end-to-end Governance, Risk & Compliance (GRC) project built around **Meridian Ledger**, a fictional 150-person payroll and benefits SaaS company in New York City.
+An end-to-end Governance, Risk & Compliance (GRC) project built around **Johnson Enterprise**, a fictional 150-person payroll and benefits SaaS company in New York City.
 
 The goal: take a growing company with no formal security program and build one the way a GRC analyst would. Start by assessing where it stands, then rank the risks, map the controls and write the policies.
 
