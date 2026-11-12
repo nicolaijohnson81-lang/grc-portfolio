@@ -1,6 +1,6 @@
-# Company Profile: Meridian Ledger (Fictional)
+# Company Profile: Johnson Enterprise (Fictional)
 
-> **Note:** Meridian Ledger is a fictional company created for this portfolio. Any resemblance to a real organization is coincidental.
+> **Note:** Johnson Enterprise is a fictional company created for this portfolio. Any resemblance to a real organization is coincidental.
 
 ## Business Overview
 
@@ -13,9 +13,9 @@
 | Revenue | ~$28M ARR, growing ~35% year over year |
 | Stage | Series B; preparing for first SOC 2 Type II audit |
 
-## What Meridian Does
+## What Johnson Enterprise Does
 
-Small businesses use Meridian to run payroll, manage health and retirement benefits enrollment, and store employee records. That means Meridian holds sensitive data for people who are **not** its own employees: its customers' workers.
+Small businesses use Johnson Enterprise to run payroll, manage health and retirement benefits enrollment, and store employee records. That means Johnson Enterprise holds sensitive data for people who are **not** its own employees: its customers' workers.
 
 ## Data Handled
 
@@ -48,7 +48,7 @@ Small businesses use Meridian to run payroll, manage health and retirement benef
 
 ## Current Security Situation (Starting Point)
 
-Meridian grew quickly and security has been handled informally by a 4-person IT/DevOps team. No dedicated security or GRC staff. Known issues leadership has mentioned:
+Johnson Enterprise grew quickly and security has been handled informally by a 4-person IT/DevOps team. No dedicated security or GRC staff. Known issues leadership has mentioned:
 
 - No formal risk register; risks are discussed in Slack but never tracked
 - MFA is enforced for employees but **not** for contractors
