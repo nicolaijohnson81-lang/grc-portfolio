@@ -1,9 +1,9 @@
-# NIST CSF 2.0 Gap Assessment: Meridian Ledger
+# NIST CSF 2.0 Gap Assessment: Johnson Enterprise
 
 ## Scope & Method
 
 - **Framework:** NIST Cybersecurity Framework 2.0 (Feb 2024)
-- **Scope:** All Meridian Ledger systems and data listed in the [Company Profile](../01-company-profile/company-profile.md)
+- **Scope:** All Johnson Enterprise systems and data listed in the [Company Profile](../01-company-profile/company-profile.md)
 - **Method:** Desk review of the company's current state, scored at the category level
 
 ## Scoring Scale
@@ -59,4 +59,4 @@
 
 ## Summary for Leadership
 
-<!-- 1 short paragraph, plain English, no jargon: where Meridian stands and what to fix first. -->
+<!-- 1 short paragraph, plain English, no jargon: where Johnson Enterprise stands and what to fix first. -->
